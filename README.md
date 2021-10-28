@@ -1,7 +1,5 @@
 # leetcode
-leetcode solved
++ Solutions for leetcode questions
++ Daily upload 
 
-First Header | Second header
--------------|--------------
-content for cell 1 | content for cell 2
-row 2 col 1 | row 2 col 2
+DS type-
