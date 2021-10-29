@@ -4,7 +4,7 @@
 
 ##DS type-
 -----------
-+ [Array](#https://github.com/biswabismay/leetcode#array)
++ [Array](https://github.com/biswabismay/leetcode#array)
 + [String](https://github.com/biswabismay/leetcode#string)
 + [Linked List](https://github.com/biswabismay/leetcode#linked-list)
 + [Stack](https://github.com/biswabismay/leetcode#stack)
@@ -14,7 +14,7 @@
 ---------
 Ques no. | Name | Code | Time | Difficulty | Algo
 ---------|------|------|------|------------|-----
-asdcada  |acadsf|afxdfe|vss   | sdcdccccccc|scsc 
+53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/53_Maximum_Subarray.c) | O(n) | Easy| Array
 ### String
 -----------
 Ques no. | Name | Code | Time | Difficulty | Algo
