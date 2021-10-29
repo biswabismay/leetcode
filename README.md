@@ -14,7 +14,9 @@
 ---------
 Ques no. | Name | Code | Time | Difficulty | Algo
 ---------|------|------|------|------------|-----
-53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/53_Maximum_Subarray.c) | O(n) | Easy| Array
+53  |[Maximum Subarray][1] | [C](https://github.com/biswabismay/leetcode/blob/main/C/53_Maximum_Subarray.c) | O(n) | Easy| Array
+
+[1]: https://leetcode.com/problems/maximum-subarray/
 ### String
 -----------
 Ques no. | Name | Code | Time | Difficulty | Algo
