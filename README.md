@@ -4,11 +4,11 @@
 
 ##DS type-
 -----------
-+ Array
-+ String
-+ Linked List
-+ Stack
-+ Queue
++ [Array](#https://github.com/biswabismay/leetcode#array)
++ [String](https://github.com/biswabismay/leetcode#string)
++ [Linked List](https://github.com/biswabismay/leetcode#linked-list)
++ [Stack](https://github.com/biswabismay/leetcode#stack)
++ [Queue](https://github.com/biswabismay/leetcode#queue)
 
 ### Array
 ---------
