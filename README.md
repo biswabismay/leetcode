@@ -2,7 +2,7 @@
 + Solutions for leetcode questions
 + Daily upload 
 
-##DS type-
+## DS type-
 -----------
 + [Array](https://github.com/biswabismay/leetcode#array)
 + [String](https://github.com/biswabismay/leetcode#string)
@@ -12,9 +12,9 @@
 
 ### Array
 ---------
-Ques no. | Name | Code | Time | Difficulty | Algo
+Ques no. | Name | Code | Time | Difficulty | Algorithm
 ---------|------|------|------|------------|-----
-53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/53_Maximum_Subarray.c) | O(n) | Easy| Array
+53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/53_Maximum_Subarray.c) | O(n) | Easy| Kadane's Algorithm
 
 ### String
 -----------
