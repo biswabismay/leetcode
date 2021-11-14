@@ -3,8 +3,9 @@
 + Daily upload 
 
 ##Languages
+---------
 [<img align="left" width="26px" alt="c logo" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png"/>]
-![c logo](https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png)
+
 
 ## DS type-
 -----------
