@@ -17,6 +17,7 @@ Ques no. | Name | Code | Time | Difficulty | Algorithm
 53  |[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/53_Maximum_Subarray.c) | O(n) | Easy| Kadane's Algorithm
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/1_Two_Sum.c) | O(n)<sup>2</sup> | Easy |
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/1_Two_Sum.c) | O(n)<sup>2</sup> | Easy |
+88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/88_Merge_Sorted_Array.c) | O(n) | Easy |
 
 ### String
 -----------
