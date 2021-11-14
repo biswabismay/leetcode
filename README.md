@@ -2,6 +2,9 @@
 + Solutions for leetcode questions
 + Daily upload 
 
+##Languages
+[<img align="left" alt"lang c" width="26px"src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png"/>]
+
 ## DS type-
 -----------
 + [Array](https://github.com/biswabismay/leetcode#array)
