@@ -3,7 +3,7 @@
 + Daily upload 
 
 ##Languages
-[<img align="left" alt"lang c" width="26px" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" />][https://github.com/biswabismay/leetcode/blob/main/C/1_Two_Sum.c]
+![c logo](https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png)
 
 ## DS type-
 -----------
