@@ -6,7 +6,7 @@
 ## Languages
 ---------
 [<img align="left" width="26px" alt="c logo" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png"/>](https://github.com/biswabismay/leetcode/tree/main/C)
-
+<br>
 
 ## DS type-
 -----------
