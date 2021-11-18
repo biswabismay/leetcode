@@ -27,7 +27,7 @@ Ques no. | Name | Code | Time | Difficulty | Algorithm
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/1_Two_Sum.c) | O(n)<sup>2</sup> | Easy |
 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/350_Intersection_of_Two_Arrays_II.c) | O(n)<sup>2</sup> | Easy
 566 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/566_Reshape_the_Matrix.c) | O(n) | Easy
-
+118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/118_Pascals_Triangle.c) | O(n) | Easy
 ### String
 -----------
 Ques no. | Name | Code | Time | Difficulty | Algo
