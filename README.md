@@ -1,6 +1,6 @@
 # leetcode
 + Solutions for leetcode questions
-+ Daily upload
++ Daily uploading previously solved questions
  
 
 ## Languages
