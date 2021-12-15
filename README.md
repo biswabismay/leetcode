@@ -34,7 +34,7 @@ Ques no. | Name | Code | Time | Difficulty | Algorithm
 -----------
 Ques no. | Name | Code | Time | Difficulty | Algo
 ---------|------|------|------|------------|-----
-asdcada  |acadsf|afxdfe|vss   | sdcdccccccc|scsctesting
+242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/36_Valid_Sudoku.c) | O(n)   | Easy |
 
 
 
