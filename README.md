@@ -34,7 +34,8 @@ Ques no. | Name | Code | Time | Difficulty | Algorithm
 -----------
 Ques no. | Name | Code | Time | Difficulty | Algo
 ---------|------|------|------|------------|-----
-242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/36_Valid_Sudoku.c) | O(n)   | Easy |
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/36_Valid_Sudoku.c) | O(n)   | Easy |
+383 | [Ransome Note](https://leetcode.com/problems/ransom-note/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/383_Ransom_Note.c) | O(n) | Easy |
 
 
 
