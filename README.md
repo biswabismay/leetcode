@@ -36,6 +36,7 @@ Ques no. | Name | Code | Time | Difficulty | Algo
 ---------|------|------|------|------------|-----
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/36_Valid_Sudoku.c) | O(n)   | Easy |
 383 | [Ransome Note](https://leetcode.com/problems/ransom-note/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/383_Ransom_Note.c) | O(n) | Easy |
+387 | [First Unique CHaracter in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/387_First_Unique_Character_in_a_String.c) | O(n) | Easy |
 
 
 
