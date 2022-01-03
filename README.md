@@ -44,7 +44,7 @@ Ques no. | Name | Code | Time | Difficulty | Algo
 ---------------
 Ques no. | Name | Code | Time | Difficulty | Algo
 ---------|------|------|------|------------|-----
-asdcada  |acadsf|afxdfe|vss   | sdcdccccccc|scsc 
+141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C](https://github.com/biswabismay/leetcode/blob/main/C/141_Linked_List_Cycle.c) | O(n) | Easy | 
 
 
 
