@@ -60,4 +60,4 @@ asdcada  |acadsf|afxdfe|vss   | sdcdccccccc|scsc
 ---------
 Ques no. | Name | Code | Time | Difficulty | Algo
 ---------|------|------|------|------------|-----
-asdcada  |acadsf|afxdfe|vss   | sdcdccccccc|scsc 
+asdcada  |acadsf|afxdfe|vss   | sdcdccccccc|scsc
